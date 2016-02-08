@@ -12,9 +12,6 @@ import javax.inject.Singleton;
 import dagger.Module;
 import dagger.Provides;
 
-/**
- * Created by samvedana on 11/6/15.
- */
 @Module
 public class VolleyModule {
     private Test application;

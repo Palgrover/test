@@ -3,11 +3,9 @@ package test.carouselask.VolleyClasses;
 import com.android.volley.DefaultRetryPolicy;
 import com.android.volley.RetryPolicy;
 
-import test.carouselask.TimeoutValues;
+import test.carouselask.utils.TimeoutValues;
 
-/**
- * Created by samvedana on 23/6/15.
- */
+
 public class VolleyHelper {
     //http://stackoverflow.com/questions/17094718/android-volley-timeout has an answer explaining the calculations
 

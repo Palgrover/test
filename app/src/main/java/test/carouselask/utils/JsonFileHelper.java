@@ -1,4 +1,4 @@
-package test.carouselask;
+package test.carouselask.utils;
 
 
 import com.google.gson.Gson;
@@ -10,6 +10,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.Reader;
+
+import test.carouselask.Test;
 
 /**
  * Created by samvedana on 7/4/15.

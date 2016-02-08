@@ -1,4 +1,4 @@
-package test.carouselask;
+package test.carouselask.utils;
 
 /**
  * Created by samvedana on 15/12/14.

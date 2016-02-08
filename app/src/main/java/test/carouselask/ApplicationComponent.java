@@ -1,14 +1,10 @@
 package test.carouselask;
 
-import com.android.volley.RequestQueue;
-
 import javax.inject.Singleton;
 
 import dagger.Component;
 
-/**
- * Created by subodh on 4/7/15.
- */
+
 @Singleton
 @Component(
         modules = {
@@ -21,6 +17,6 @@ public interface ApplicationComponent {
     void inject(Test app);
     void inject(MockCategoryApi api);
 
-    RequestQueue requestQueue();
-    MockCategoryApi mockCategoryApi();
+    //RequestQueue requestQueue();
+    //MockCategoryApi mockCategoryApi();
 }

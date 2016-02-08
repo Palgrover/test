@@ -18,11 +18,9 @@ import java.lang.ref.WeakReference;
 import java.util.HashMap;
 import java.util.Map;
 
-import test.carouselask.JsonHelper;
+import test.carouselask.utils.JsonHelper;
 
-/**
- * Created by samvedana on 16/6/15.
- */
+
 public class MyJsonObjectRequest extends Request<String> {
     private String mApiVersion;
     private WeakReference<Activity> activityWeakReference = null;

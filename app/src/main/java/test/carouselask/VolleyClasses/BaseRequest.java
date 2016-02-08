@@ -21,9 +21,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-/**
- * Created by subodh on 19/10/15.
- */
 
 /**
  * Base class for all network requests.

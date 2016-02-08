@@ -1,0 +1,215 @@
+
+
+[
+
+    {
+
+        "label": "20 % off on any product",
+
+        "image": "http://media.askmebazaar.com/media/catalog/product/a/n/ankita-30-april-50.jpeg",
+
+        "template": "product-template-1",
+
+        "items": [
+
+            {
+
+                "label": "My awesome ad",
+
+                "image": "http://stocks.img.askme.com/campaings/appimages/July/Casually-Cool-Look.jpg",
+
+                "web-url": "http://www.askmebazaar.com/product.php?product_id=818256&utm_source=web&utm_medium=homepage&utm_campaign=Campaign"
+
+            }
+
+        ]
+
+    },
+
+    {
+
+        "label": "Dealoftheday",
+
+        "image": "http://media.askmebazaar.com/media/catalog/product/a/n/ankita-30-april-50.jpeg",
+
+        "template": "product-template-2",
+
+        "items": [
+
+            {
+
+                "label": "Myawesomedeal",
+
+                "image": "http: //media.askmebazaar.com/media/catalog/product/thumbnails/150x150/6/c/6curtain.jpeg",
+
+                "web-url": "http: //www.askmebazaar.com/product.php?product_id=818256&utm_source=web&utm_medium=homepage&utm_campaign=Campaign"
+
+            },
+
+            {
+
+                "label": "Myawesomedeal1",
+
+                "image": "http: //stocks.img.askme.com/campaings/appimages/July/Casually-Cool-Look.jpg",
+
+                "web-url": "http: //www.askmebazaar.com/product.php?product_id=818256&utm_source=web&utm_medium=homepage&utm_campaign=Campaign"
+
+            },
+
+            {
+
+                "label": "Myawesomedeal2",
+
+                "image_url": "http: //media.askmebazaar.com/media/catalog/product/thumbnails/150x150/i/m/img_9145dh.jpeg",
+
+                "web-url": "http: //www.askmebazaar.com/product.php?product_id=818256&utm_source=web&utm_medium=homepage&utm_campaign=Campaign"
+
+            }
+
+        ]
+
+    },
+
+    {
+
+        "label": "Recentlyviewed",
+
+        "image": "http: //media.askmebazaar.com/media/catalog/product/thumbnails/150x150/6/c/6curtain.jpeg",
+
+        "template": "product-template-1",
+
+        "items": [
+
+            {
+
+                "label": "Myawesomedeal",
+
+                "image": "http: //media.askmebazaar.com/media/catalog/product/thumbnails/150x150/r/i/richa-1-aprl-15-41.jpeg",
+
+                "web-url": "http: //www.askmebazaar.com/product.php?product_id=818256&utm_source=web&utm_medium=homepage&utm_campaign=Campaign"
+
+            },
+
+            {
+
+                "label": "Myawesomedeal",
+
+                "image_url": "http: //media.askmebazaar.com/media/catalog/product/thumbnails/150x150/a/n/ankit-3-april-2015-41.jpg",
+
+                "web-url": "http: //www.askmebazaar.com/product.php?product_id=818256&utm_source=web&utm_medium=homepage&utm_campaign=Campaign"
+
+            }
+
+        ]
+
+    },
+
+    {
+
+        "label": "Boxoffice",
+
+        "image": "http: //media.askmebazaar.com/media/catalog/product/thumbnails/150x150/6/c/6curtain.jpeg",
+
+        "template": "product-template-3",
+
+        "items": [
+
+            {
+
+                "label": "Myawesomedeal",
+
+                "image": "http: //media.askmebazaar.com/media/catalog/product/thumbnails/150x150/r/i/richa-1-aprl-15-41.jpeg",
+
+                "web-url": "http: //www.askmebazaar.com/product.php?product_id=818256&utm_source=web&utm_medium=homepage&utm_campaign=Campaign"
+
+            },
+
+            {
+
+                "label": "Myawesomedeal",
+
+                "image_url": "http: //media.askmebazaar.com/media/catalog/product/thumbnails/150x150/a/n/ankit-3-april-2015-41.jpg",
+
+                "web-url": "http: //www.askmebazaar.com/product.php?product_id=818256&utm_source=web&utm_medium=homepage&utm_campaign=Campaign"
+
+            },
+
+            {
+
+                "label": "Myawesomedeal",
+
+                "image_url": "http: //media.askmebazaar.com/media/catalog/product/thumbnails/150x150/a/n/ankit-3-april-2015-41.jpg",
+
+                "web-url": "http: //www.askmebazaar.com/product.php?product_id=818256&utm_source=web&utm_medium=homepage&utm_campaign=Campaign"
+
+            },
+
+            {
+
+                "label": "Myawesomedeal",
+
+                "image_url": "http: //media.askmebazaar.com/media/catalog/product/thumbnails/150x150/a/n/ankit-3-april-2015-41.jpg",
+
+                "web-url": "http: //www.askmebazaar.com/product.php?product_id=818256&utm_source=web&utm_medium=homepage&utm_campaign=Campaign"
+
+            },
+
+            {
+
+                "label": "Myawesomedeal",
+
+                "image_url": "http: //media.askmebazaar.com/media/catalog/product/thumbnails/150x150/a/n/ankit-3-april-2015-41.jpg",
+
+                "web-url": "http: //www.askmebazaar.com/product.php?product_id=818256&utm_source=web&utm_medium=homepage&utm_campaign=Campaign"
+
+            },
+
+            {
+
+                "label": "Myawesomedeal",
+
+                "image_url": "http: //media.askmebazaar.com/media/catalog/product/thumbnails/150x150/a/n/ankit-3-april-2015-41.jpg",
+
+                "web-url": "http: //www.askmebazaar.com/product.php?product_id=818256&utm_source=web&utm_medium=homepage&utm_campaign=Campaign"
+
+            }
+
+        ]
+
+    }, 
+
+        {
+
+        "label": "FoodFriday",
+
+        "image": "http: //media.askmebazaar.com/media/catalog/product/thumbnails/150x150/6/c/6curtain.jpeg",
+
+        "template": "product-template-3",
+
+        "items": [
+
+            {
+
+                "label": "Myawesomedeal",
+
+                "image": "http: //media.askmebazaar.com/media/catalog/product/thumbnails/150x150/r/i/richa-1-aprl-15-41.jpeg",
+
+                "web-url": "http: //www.askmebazaar.com/product.php?product_id=818256&utm_source=web&utm_medium=homepage&utm_campaign=Campaign"
+
+            },
+
+            {
+
+                "label": "Myawesomedeal",
+
+                "image_url": "http: //media.askmebazaar.com/media/catalog/product/thumbnails/150x150/a/n/ankit-3-april-2015-41.jpg",
+
+                "web-url": "http: //www.askmebazaar.com/product.php?product_id=818256&utm_source=web&utm_medium=homepage&utm_campaign=Campaign"
+
+            }
+
+        ]
+
+    }
+
+]
